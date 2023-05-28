@@ -11,7 +11,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "engines" :{
+  "engines": {
     "node": "^14"
   },
   "dependencies": {
